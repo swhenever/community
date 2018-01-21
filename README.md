@@ -6,7 +6,7 @@ This project is for contributing and discussing ideas, and communicating with th
 
 # How do I give feedback?
 
-Head over to the [issues list]() and see what we're planning. If there's an idea, improvement or bug that's important to you, add [a thumbs-up reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) to it. 
+Head over to the [issues list](https://github.com/theshowthing/community/issues) and see what we're planning. If there's an idea, improvement or bug that's important to you, add [a thumbs-up reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) to it. 
 
 If you have something that isn't listed yet, [create a new issue](https://github.com/theshowthing/community/issues/new) to represent it. Issues can represent:
 
