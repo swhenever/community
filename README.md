@@ -4,6 +4,10 @@ We are building [a better concert calendar](https://swhenever.com) for the Twin 
 
 This project is for contributing and discussing ideas, and communicating with the community about our roadmap. 
 
+# Roadmap
+
+You can [view our roadmap here](https://waffle.io/theshowthing/community). The roadmap is based on the [issues list](https://github.com/theshowthing/community/issues) that exists right here in this github project. Want to give feedback that will impact the roadmap? See below :)
+
 # How do I give feedback?
 
 Head over to the [issues list](https://github.com/theshowthing/community/issues) and see what we're planning. If there's an idea, improvement or bug that's important to you, add [a thumbs-up reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) to it. 
